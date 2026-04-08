@@ -67,21 +67,16 @@ MusicPlaylistManager
 │ └── AndroidManifest.xml
 
 How to Run the Application
-         Using Emulator
-         Open the project in Android Studio
+     Using Emulator
+     Open the project in Android Studio
+     Create or select a virtual device
+     Run the application
 
-        Create or select a virtual device
-
-         Run the application
-
-          Using Android Device
-          Enable Developer Options
-
-           Enable USB Debugging
-
-            Connect the device
-
-            Run the application
+     Using Android Device
+      Enable Developer Options
+      Enable USB Debugging
+      Connect the device
+      Run the application
 
 Expected Outcome
          The application allows users to manage playlists and songs efficiently. Data is stored locally and remains available even after restarting the application.
